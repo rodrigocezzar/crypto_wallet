@@ -1,0 +1,13 @@
+pt-BR:
+  current_locale: "Português do Brasil"
+  welcome: "Seja Bem-Vindo"
+  messages:
+    welcome: "Este é o Crypto Wallet"
+    menu: "Para começar selecione uma das opções abaixo:"
+    confirm: "Tem certeza?"
+  hello: "Olá Mundo!"
+  links:
+    edit: "Editar"
+    show: "Mostrar"
+    delete: "Apagar"
+    new: "Novo"
